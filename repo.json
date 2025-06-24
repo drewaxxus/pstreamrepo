@@ -3,30 +3,34 @@
   "subtitle": "A app source for Alt-Store/Scarlet/Kravasign/whatever else they use",
   "description": "",
   "iconURL": "https://i.imgur.com/b5ZppEj.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
+  "website": "",
+  "patreonURL": "",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": [
+    "Pstream-Team.PStream"
+  ],
   "apps": [
     {
       "name": "PStream",
       "bundleIdentifier": "Pstream-Team.PStream",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "xprime.tv",
+      "subtitle": "",
+      "localizedDescription": "YAY",
       "iconURL": "https://i.imgur.com/wut7aWN.png",
       "tintColor": "#8542bc",
-      "category": "other",
-      "screenshots": [],
+      "category": "developer",
+      "screenshots": [
+        "https://i.imgur.com/6oBGdHU.png"
+      ],
       "versions": [
         {
-          "downloadURL": "https://www.dropbox.com/scl/fi/jhv19gc8inh0q8at7bzt4/pstrram.ipa?rlkey=7f1xhskml5cm4ohrg7o4njgj1&st=pd1n025y&dl=0",
-          "size": 17100000,
           "version": "1.0",
-          "buildVersion": null,
-          "date": "2025-06-24T00:51:00+03:00",
+          "date": "2025-06-23T21:51:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://www.dropbox.com/scl/fi/jhv19gc8inh0q8at7bzt4/pstrram.ipa?rlkey=7f1xhskml5cm4ohrg7o4njgj1&st=pd1n025y&dl=1",
+          "size": 17100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
