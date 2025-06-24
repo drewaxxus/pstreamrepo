@@ -1,0 +1,53 @@
+{
+  "name": "P-Store Unofficial Repository",
+  "subtitle": "A app source for Alt-Store/Scarlet/Kravasign/whatever else they use",
+  "description": "",
+  "iconURL": "https://i.imgur.com/b5ZppEj.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "PStream",
+      "bundleIdentifier": "Pstream-Team.PStream",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/wut7aWN.png",
+      "tintColor": "#8542bc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/jhv19gc8inh0q8at7bzt4/pstrram.ipa?rlkey=7f1xhskml5cm4ohrg7o4njgj1&st=pd1n025y&dl=0",
+          "size": 17100000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-06-24T00:51:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Added P-Stream.",
+      "identifier": "news_8an7tjgeuk",
+      "caption": "Added P-Stream, YAY!!!",
+      "date": "2025-06-24T18:46",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/9KbqxSk.png",
+      "notify": true,
+      "url": "",
+      "appID": "Pstream-Team.PStream"
+    }
+  ]
+}
